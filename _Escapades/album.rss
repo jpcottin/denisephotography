@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>_Escapades</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Escapades</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>BlueFlowerBee</title>
+            <link>slides/BlueFlowerBee.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BlueFlowerBee.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/BlueFlowerBee.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="6/8/14 2:02 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/BlueFlowerBee.jpg</guid>
+        </item>
+        <item>
+            <title>BlueFlowerBee2</title>
+            <link>slides/BlueFlowerBee2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BlueFlowerBee2.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/BlueFlowerBee2.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="6/8/14 2:25 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/BlueFlowerBee2.jpg</guid>
+        </item>
+        <item>
+            <title>Lavender Fields</title>
+            <link>slides/Lavender Fields.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Lavender Fields.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Lavender Fields.jpg" width="772" height="1080"/>
+            <jalbum:exif originalDate="7/5/12 9:51 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Lavender Fields.jpg</guid>
+        </item>
+        <item>
+            <title>Cogolin_Summer_2012 364_2</title>
+            <link>slides/Cogolin_Summer_2012 364_2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cogolin_Summer_2012 364_2.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Cogolin_Summer_2012 364_2.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="7/5/12 11:23 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Cogolin_Summer_2012 364_2.jpg</guid>
+        </item>
+        <item>
+            <title>Cogolin_Summer_2012 407_2</title>
+            <link>slides/Cogolin_Summer_2012 407_2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cogolin_Summer_2012 407_2.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Cogolin_Summer_2012 407_2.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="7/5/12 12:27 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Cogolin_Summer_2012 407_2.jpg</guid>
+        </item>
+        <item>
+            <title>Cogolin_Summer_2012 448_2</title>
+            <link>slides/Cogolin_Summer_2012 448_2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cogolin_Summer_2012 448_2.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Cogolin_Summer_2012 448_2.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="7/5/12 1:51 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Cogolin_Summer_2012 448_2.jpg</guid>
+        </item>
+        <item>
+            <title>P1170326</title>
+            <link>slides/P1170326.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1170326.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/P1170326.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="10/13/12 6:29 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1170326.jpg</guid>
+        </item>
+        <item>
+            <title>Mexico_2065</title>
+            <link>slides/Mexico_2065.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mexico_2065.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/Mexico_2065.jpg" width="1350" height="1080"/>
+            <jalbum:exif originalDate="11/21/09 3:27 PM" cameraMake="Panasonic" cameraModel="DMC-LC33"/>
+            <guid isPermaLink="false">slides/Mexico_2065.jpg</guid>
+        </item>
+        <item>
+            <title>Mexico_1243</title>
+            <link>slides/Mexico_1243.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mexico_1243.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/Mexico_1243.jpg" width="1350" height="1080"/>
+            <jalbum:exif originalDate="11/19/09 1:00 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Mexico_1243.jpg</guid>
+        </item>
+        <item>
+            <title>P1050481</title>
+            <link>slides/P1050481.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1050481.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/P1050481.jpg" width="1513" height="1080"/>
+            <jalbum:exif originalDate="4/10/11 9:01 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1050481.jpg</guid>
+        </item>
+        <item>
+            <title>Denise_summer_before_wedding 061</title>
+            <link>slides/Denise_summer_before_wedding 061.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Denise_summer_before_wedding 061.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Denise_summer_before_wedding 061.jpg" width="864" height="1080"/>
+            <jalbum:exif originalDate="7/5/07 10:51 AM" cameraMake="Panasonic" cameraModel="DMC-FZ8"/>
+            <guid isPermaLink="false">slides/Denise_summer_before_wedding 061.jpg</guid>
+        </item>
+        <item>
+            <title>French Window</title>
+            <link>slides/French Window.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/French Window.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/French Window.jpg" width="772" height="1080"/>
+            <jalbum:exif originalDate="7/6/09 8:45 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/French Window.jpg</guid>
+        </item>
+        <item>
+            <title>morocco women 2</title>
+            <link>slides/morocco women 2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/morocco women 2.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/morocco women 2.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="3/17/05 3:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot G6"/>
+            <guid isPermaLink="false">slides/morocco women 2.jpg</guid>
+        </item>
+        <item>
+            <title>P1060580</title>
+            <link>slides/P1060580.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1060580.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/P1060580.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="6/22/11 2:04 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1060580.jpg</guid>
+        </item>
+        <item>
+            <title>P1000259</title>
+            <link>slides/P1000259.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1000259.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/P1000259.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="10/23/11 4:09 PM" cameraMake="Panasonic" cameraModel="DMC-TS3"/>
+            <guid isPermaLink="false">slides/P1000259.jpg</guid>
+        </item>
+        <item>
+            <title>P1010324</title>
+            <link>slides/P1010324.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1010324.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/P1010324.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="11/26/11 2:54 PM" cameraMake="Panasonic" cameraModel="DMC-LX5"/>
+            <guid isPermaLink="false">slides/P1010324.jpg</guid>
+        </item>
+        <item>
+            <title>P1040228</title>
+            <link>slides/P1040228.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1040228.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/P1040228.jpg" width="772" height="1080"/>
+            <jalbum:exif originalDate="7/17/12 3:55 PM" cameraMake="Panasonic" cameraModel="DMC-LX5"/>
+            <guid isPermaLink="false">slides/P1040228.jpg</guid>
+        </item>
+        <item>
+            <title>P1060914_2</title>
+            <link>slides/P1060914_2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1060914_2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/P1060914_2.jpg" width="1080" height="1080"/>
+            <jalbum:exif originalDate="7/2/11 5:28 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1060914_2.jpg</guid>
+        </item>
+        <item>
+            <title>P1100420</title>
+            <link>slides/P1100420.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1100420.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/P1100420.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="1/14/12 3:25 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1100420.jpg</guid>
+        </item>
+        <item>
+            <title>Belize Breeze</title>
+            <link>slides/Belize Breeze.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Belize Breeze.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/Belize Breeze.jpg" width="1350" height="1080"/>
+            <jalbum:exif originalDate="12/30/08 12:18 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Belize Breeze.jpg</guid>
+        </item>
+        <item>
+            <title>P1060227</title>
+            <link>slides/P1060227.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1060227.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/P1060227.jpg" width="1351" height="1080"/>
+            <jalbum:exif originalDate="5/29/11 7:57 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1060227.jpg</guid>
+        </item>
+        <item>
+            <title>P1050983</title>
+            <link>slides/P1050983.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1050983.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/P1050983.jpg" width="1351" height="1080"/>
+            <jalbum:exif originalDate="5/21/11 8:13 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1050983.jpg</guid>
+        </item>
+        <item>
+            <title>P1090657</title>
+            <link>slides/P1090657.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 21:46:27 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1090657.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/P1090657.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="7/9/09 11:49 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/P1090657.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Seascapes</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Seascapes</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Belize Blue Chromis</title>
+            <link>slides/Belize Blue Chromis.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Belize Blue Chromis.jpg" width="124" height="96"/>
+            <media:content type="image/jpeg" url="slides/Belize Blue Chromis.jpg" width="1397" height="1080"/>
+            <jalbum:exif originalDate="11/21/11 8:53 AM" cameraMake="Panasonic" cameraModel="DMC-LX5"/>
+            <guid isPermaLink="false">slides/Belize Blue Chromis.jpg</guid>
+        </item>
+        <item>
+            <title>Indonesian Pygmy Seahorse</title>
+            <link>slides/Indonesian Pygmy Seahorse.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Indonesian Pygmy Seahorse.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Indonesian Pygmy Seahorse.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/25/12 8:45 AM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Indonesian Pygmy Seahorse.jpg</guid>
+        </item>
+        <item>
+            <title>Belize Aarow Crab</title>
+            <link>slides/Belize Aarow Crab.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Belize Aarow Crab.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Belize Aarow Crab.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/26/11 3:09 PM" cameraMake="Panasonic" cameraModel="DMC-LX5"/>
+            <guid isPermaLink="false">slides/Belize Aarow Crab.jpg</guid>
+        </item>
+        <item>
+            <title>Indonesian Mandarinfish</title>
+            <link>slides/Indonesian Mandarinfish.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Indonesian Mandarinfish.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Indonesian Mandarinfish.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/27/12 5:37 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Indonesian Mandarinfish.jpg</guid>
+        </item>
+        <item>
+            <title>Indonesian Mantis Shrimp</title>
+            <link>slides/Indonesian Mantis Shrimp.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Indonesian Mantis Shrimp.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Indonesian Mantis Shrimp.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/26/12 3:10 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Indonesian Mantis Shrimp.jpg</guid>
+        </item>
+        <item>
+            <title>Indonesian Squat Lobster</title>
+            <link>slides/Indonesian Squat Lobster.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Indonesian Squat Lobster.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Indonesian Squat Lobster.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/25/12 9:00 AM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Indonesian Squat Lobster.jpg</guid>
+        </item>
+        <item>
+            <title>Indonesian Shrimp</title>
+            <link>slides/Indonesian Shrimp.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Indonesian Shrimp.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Indonesian Shrimp.jpg" width="1513" height="1080"/>
+            <jalbum:exif originalDate="12/29/12 3:20 PM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Indonesian Shrimp.jpg</guid>
+        </item>
+        <item>
+            <title>Fiji Fish</title>
+            <link>slides/Fiji Fish.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Fiji Fish.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Fiji Fish.jpg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="12/25/10 2:59 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Fiji Fish.jpg</guid>
+        </item>
+        <item>
+            <title>Fiji Manta</title>
+            <link>slides/Fiji Manta.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Fiji Manta.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Fiji Manta.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="12/22/10 4:01 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Fiji Manta.jpg</guid>
+        </item>
+        <item>
+            <title>Grand Caymen Fish</title>
+            <link>slides/Grand Caymen Fish.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Grand Caymen Fish.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Grand Caymen Fish.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="10/20/10 9:11 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Grand Caymen Fish.jpg</guid>
+        </item>
+        <item>
+            <title>Cayman Brac Stingray and Friend</title>
+            <link>slides/Cayman Brac Stingray and Friend.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cayman Brac Stingray and Friend.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Cayman Brac Stingray and Friend.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="4/21/13 9:25 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Cayman Brac Stingray and Friend.jpg</guid>
+        </item>
+    </channel>
+</rss>

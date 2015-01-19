@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Escapes</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Escapes</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Aloha Sunset</title>
+            <link>slides/Aloha Sunset.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Aloha Sunset.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Aloha Sunset.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="11/23/12 8:22 AM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Aloha Sunset.jpg</guid>
+        </item>
+        <item>
+            <title>La Ciotat Sunrise</title>
+            <link>slides/La Ciotat Sunrise.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/La Ciotat Sunrise.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/La Ciotat Sunrise.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="7/1/13 11:24 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/La Ciotat Sunrise.jpg</guid>
+        </item>
+        <item>
+            <title>Bonaire Flight</title>
+            <link>slides/Bonaire Flight.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bonaire Flight.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/Bonaire Flight.jpg" width="1921" height="1080"/>
+            <jalbum:exif originalDate="4/13/14 6:40 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Bonaire Flight.jpg</guid>
+        </item>
+        <item>
+            <title>Belize Rasta Sunset</title>
+            <link>slides/Belize Rasta Sunset.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Belize Rasta Sunset.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/Belize Rasta Sunset.jpg" width="1906" height="1080"/>
+            <jalbum:exif originalDate="12/31/08 5:46 PM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Belize Rasta Sunset.jpg</guid>
+        </item>
+        <item>
+            <title>P1200314</title>
+            <link>slides/P1200314.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1200314.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/P1200314.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="2/17/13 6:03 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/P1200314.jpg</guid>
+        </item>
+        <item>
+            <title>Surfer Sunset</title>
+            <link>slides/Surfer Sunset.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Surfer Sunset.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Surfer Sunset.jpg" width="1513" height="1080"/>
+            <jalbum:exif originalDate="11/30/02 12:00 AM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Surfer Sunset.jpg</guid>
+        </item>
+        <item>
+            <title>Honolulu Sunset</title>
+            <link>slides/Honolulu Sunset.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Honolulu Sunset.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Honolulu Sunset.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="11/23/12 8:26 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Honolulu Sunset.jpg</guid>
+        </item>
+        <item>
+            <title>Honlulu Sunset Sailing</title>
+            <link>slides/Honlulu Sunset Sailing.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Honlulu Sunset Sailing.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Honlulu Sunset Sailing.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="11/24/12 8:40 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Honlulu Sunset Sailing.jpg</guid>
+        </item>
+        <item>
+            <title>Cayman Brac</title>
+            <link>slides/Cayman Brac.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:02 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cayman Brac.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Cayman Brac.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="4/20/13 3:50 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Cayman Brac.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dreamscapes</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Dreamscapes</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>fineart0</title>
+            <link>slides/fineart0.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Industrial Figure</description>
+            <media:description type="html">Industrial Figure</media:description>
+            <media:thumbnail url="thumbs/fineart0.jpg" width="62" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart0.jpg" width="200" height="400"/>
+            <guid isPermaLink="false">slides/fineart0.jpg</guid>
+        </item>
+        <item>
+            <title>fairy2</title>
+            <link>slides/fairy2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Bleue</description>
+            <media:description type="html">Bleue</media:description>
+            <media:thumbnail url="thumbs/fairy2.jpg" width="124" height="100"/>
+            <media:content type="image/jpeg" url="slides/fairy2.jpg" width="365" height="294"/>
+            <guid isPermaLink="false">slides/fairy2.jpg</guid>
+        </item>
+        <item>
+            <title>fairy4_2</title>
+            <link>slides/fairy4_2.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Star Gazer</description>
+            <media:description type="html">Star Gazer</media:description>
+            <media:thumbnail url="thumbs/fairy4_2.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fairy4_2.jpg" width="312" height="389"/>
+            <guid isPermaLink="false">slides/fairy4_2.jpg</guid>
+        </item>
+        <item>
+            <title>Butterfly and Clock</title>
+            <link>slides/Butterfly and Clock.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Clock and Butterfly</description>
+            <media:description type="html">Clock and Butterfly</media:description>
+            <media:thumbnail url="thumbs/Butterfly and Clock.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Butterfly and Clock.jpg" width="351" height="440"/>
+            <guid isPermaLink="false">slides/Butterfly and Clock.jpg</guid>
+        </item>
+        <item>
+            <title>fairy6</title>
+            <link>slides/fairy6.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Dream of the Cornflowers</description>
+            <media:description type="html">Dream of the Cornflowers</media:description>
+            <media:thumbnail url="thumbs/fairy6.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fairy6.jpg" width="289" height="361"/>
+            <guid isPermaLink="false">slides/fairy6.jpg</guid>
+        </item>
+        <item>
+            <title>fineart3</title>
+            <link>slides/fineart3.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Spirit of the Lily</description>
+            <media:description type="html">Spirit of the Lily</media:description>
+            <media:thumbnail url="thumbs/fineart3.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart3.jpg" width="272" height="340"/>
+            <guid isPermaLink="false">slides/fineart3.jpg</guid>
+        </item>
+        <item>
+            <title>fineart5</title>
+            <link>slides/fineart5.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Ohm</description>
+            <media:description type="html">Ohm</media:description>
+            <media:thumbnail url="thumbs/fineart5.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart5.jpg" width="307" height="384"/>
+            <guid isPermaLink="false">slides/fineart5.jpg</guid>
+        </item>
+        <item>
+            <title>fineart6</title>
+            <link>slides/fineart6.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Breath</description>
+            <media:description type="html">Breath</media:description>
+            <media:thumbnail url="thumbs/fineart6.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart6.jpg" width="298" height="373"/>
+            <guid isPermaLink="false">slides/fineart6.jpg</guid>
+        </item>
+        <item>
+            <title>Iris Dream</title>
+            <link>slides/Iris Dream.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Spirit of the Iris</description>
+            <media:description type="html">Spirit of the Iris</media:description>
+            <media:thumbnail url="thumbs/Iris Dream.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Iris Dream.jpg" width="865" height="1080"/>
+            <guid isPermaLink="false">slides/Iris Dream.jpg</guid>
+        </item>
+        <item>
+            <title>Fairy Dream</title>
+            <link>slides/Fairy Dream.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:03 -0700</pubDate>
+            <description>Dreamy</description>
+            <media:description type="html">Dreamy</media:description>
+            <media:thumbnail url="thumbs/Fairy Dream.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Fairy Dream.jpg" width="282" height="352"/>
+            <guid isPermaLink="false">slides/Fairy Dream.jpg</guid>
+        </item>
+    </channel>
+</rss>

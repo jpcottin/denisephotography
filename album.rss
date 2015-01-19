@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>denise.photography</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description>THIS IS A TEST</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Cityscapes/album.rss" />   	
+    	<jalbum:link rel="sub" href="Landscapes/album.rss" />   	
+    	<jalbum:link rel="sub" href="Seascapes/album.rss" />   	
+    	<jalbum:link rel="sub" href="Escapes/album.rss" />   	
+    	<jalbum:link rel="sub" href="Dreamscapes/album.rss" />   	
+    	<jalbum:link rel="sub" href="Timeless/album.rss" />   	
+    	<jalbum:link rel="sub" href="Cyanotypes/album.rss" />   	
+        <item>
+            <title>San Francisco Fog</title>
+            <link>slides/San Francisco Fog.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:21:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/San Francisco Fog.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/San Francisco Fog.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="10/19/13 8:00 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/San Francisco Fog.jpg</guid>
+        </item>
+    </channel>
+</rss>

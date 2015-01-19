@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Cyanotypes</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Cyanotypes</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>San Francisco Silhouette Cyanotype</title>
+            <link>slides/San Francisco Silhouette Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/San Francisco Silhouette Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/San Francisco Silhouette Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="12/9/12 6:10 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/San Francisco Silhouette Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>SFMOMA Cyanotype</title>
+            <link>slides/SFMOMA Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SFMOMA Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/SFMOMA Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="2/5/12 7:44 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/SFMOMA Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>San Francisco Ferry Building Cyanotype</title>
+            <link>slides/San Francisco Ferry Building Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/San Francisco Ferry Building Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/San Francisco Ferry Building Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="1/26/13 6:21 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/San Francisco Ferry Building Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>Bay Bridge Cyanotype</title>
+            <link>slides/Bay Bridge Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bay Bridge Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Bay Bridge Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="9/8/12 8:06 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Bay Bridge Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>The City by the Bay Cyanotype</title>
+            <link>slides/The City by the Bay Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/The City by the Bay Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/The City by the Bay Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="1/3/13 9:36 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/The City by the Bay Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>Golden Gate Bridge Fog Cyanotype</title>
+            <link>slides/Golden Gate Bridge Fog Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate Bridge Fog Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate Bridge Fog Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="9/30/12 6:56 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Golden Gate Bridge Fog Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>Golden Gate Bridge Moonlit Cyanotype</title>
+            <link>slides/Golden Gate Bridge Moonlit Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate Bridge Moonlit Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate Bridge Moonlit Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="1/27/13 6:28 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Golden Gate Bridge Moonlit Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>The San Francisco Painted Ladies Cyanotype</title>
+            <link>slides/The San Francisco Painted Ladies Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/The San Francisco Painted Ladies Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/The San Francisco Painted Ladies Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="11/28/12 6:34 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/The San Francisco Painted Ladies Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>Marina Cyanotype</title>
+            <link>slides/Marina Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Marina Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Marina Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="8/24/12 11:26 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Marina Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>The Trans America Pyramid Cyanotype</title>
+            <link>slides/The Trans America Pyramid Cyanotype.JPG</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/The Trans America Pyramid Cyanotype.JPG" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/The Trans America Pyramid Cyanotype.JPG" width="1375" height="1080"/>
+            <jalbum:exif originalDate="1/27/13 6:24 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/The Trans America Pyramid Cyanotype.JPG</guid>
+        </item>
+        <item>
+            <title>Morning Mist Cyanotype</title>
+            <link>slides/Morning Mist Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Morning Mist Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Morning Mist Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="2/10/13 6:15 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Morning Mist Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>View from the Aquatic Park</title>
+            <link>slides/View from the Aquatic Park.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/View from the Aquatic Park.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/View from the Aquatic Park.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="2/24/13 6:31 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/View from the Aquatic Park.jpg</guid>
+        </item>
+        <item>
+            <title>Golden Gate Fog Cyanotype</title>
+            <link>slides/Golden Gate Fog Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate Fog Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate Fog Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="9/30/12 6:39 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Golden Gate Fog Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>Sunburst Cyanotype</title>
+            <link>slides/Sunburst Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Sunburst Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Sunburst Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="12/10/12 7:40 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Sunburst Cyanotype.jpg</guid>
+        </item>
+        <item>
+            <title>Rocket Cyanotype</title>
+            <link>slides/Rocket Cyanotype.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rocket Cyanotype.jpg" width="124" height="97"/>
+            <media:content type="image/jpeg" url="slides/Rocket Cyanotype.jpg" width="1375" height="1080"/>
+            <jalbum:exif originalDate="1/27/13 7:41 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Rocket Cyanotype.jpg</guid>
+        </item>
+    </channel>
+</rss>

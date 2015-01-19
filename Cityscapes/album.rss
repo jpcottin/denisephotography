@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Cityscapes</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Cityscapes</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Golden Gate Moon Rise</title>
+            <link>slides/Golden Gate Moon Rise.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate Moon Rise.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate Moon Rise.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/1/13 6:17 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Golden Gate Moon Rise.jpg</guid>
+        </item>
+        <item>
+            <title>Cliff House</title>
+            <link>slides/Cliff House.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cliff House.jpg" width="124" height="62"/>
+            <media:content type="image/jpeg" url="slides/Cliff House.jpg" width="2161" height="1080"/>
+            <jalbum:exif originalDate="2/17/13 6:11 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Cliff House.jpg</guid>
+        </item>
+        <item>
+            <title>City Slhouette</title>
+            <link>slides/City Slhouette.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/City Slhouette.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/City Slhouette.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="12/9/12 6:10 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/City Slhouette.jpg</guid>
+        </item>
+        <item>
+            <title>San Francsico City Lights Sky LIne</title>
+            <link>slides/San Francsico City Lights Sky LIne.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/San Francsico City Lights Sky LIne.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/San Francsico City Lights Sky LIne.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="11/29/13 5:34 PM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/San Francsico City Lights Sky LIne.jpg</guid>
+        </item>
+        <item>
+            <title>Fog Bridge</title>
+            <link>slides/Fog Bridge.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Fog Bridge.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Fog Bridge.jpg" width="1511" height="1080"/>
+            <jalbum:exif originalDate="9/30/12 6:56 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Fog Bridge.jpg</guid>
+        </item>
+        <item>
+            <title>Singapore</title>
+            <link>slides/Singapore.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Singapore.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Singapore.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="12/31/12 3:49 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Singapore.jpg</guid>
+        </item>
+        <item>
+            <title>Sunburst</title>
+            <link>slides/Sunburst.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Sunburst.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Sunburst.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="12/10/12 7:40 AM" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="E-M5            "/>
+            <guid isPermaLink="false">slides/Sunburst.jpg</guid>
+        </item>
+        <item>
+            <title>Pacifica</title>
+            <link>slides/Pacifica.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pacifica.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/Pacifica.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="10/21/12 7:06 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Pacifica.jpg</guid>
+        </item>
+        <item>
+            <title>Golden Gate City Lights</title>
+            <link>slides/Golden Gate City Lights.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate City Lights.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate City Lights.jpg" width="772" height="1080"/>
+            <jalbum:exif originalDate="11/27/13 6:21 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Golden Gate City Lights.jpg</guid>
+        </item>
+        <item>
+            <title>Alcatraz Lighthouse</title>
+            <link>slides/Alcatraz Lighthouse.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Alcatraz Lighthouse.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Alcatraz Lighthouse.jpg" width="772" height="1080"/>
+            <jalbum:exif originalDate="3/15/14 5:49 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Alcatraz Lighthouse.jpg</guid>
+        </item>
+        <item>
+            <title>Golden Gate Bridge Foggy Sunrise</title>
+            <link>slides/Golden Gate Bridge Foggy Sunrise.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Golden Gate Bridge Foggy Sunrise.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/Golden Gate Bridge Foggy Sunrise.jpg" width="1921" height="1080"/>
+            <jalbum:exif originalDate="9/29/13 6:29 AM" cameraMake="OLYMPUS IMAGING CORP." cameraModel="E-M5"/>
+            <guid isPermaLink="false">slides/Golden Gate Bridge Foggy Sunrise.jpg</guid>
+        </item>
+        <item>
+            <title>Palace of Fine Arts</title>
+            <link>slides/Palace of Fine Arts.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Palace of Fine Arts.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Palace of Fine Arts.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="9/29/12 7:17 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Palace of Fine Arts.jpg</guid>
+        </item>
+        <item>
+            <title>CoitTower</title>
+            <link>slides/CoitTower.jpg</link>
+            <pubDate>Sun, 10 Aug 2014 19:45:35 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CoitTower.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/CoitTower.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="7/20/14 8:32 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/CoitTower.jpg</guid>
+        </item>
+    </channel>
+</rss>

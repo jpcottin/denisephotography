@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fine Art</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>butclock</title>
+            <link>slides/butclock.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/butclock.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/butclock.jpg" width="351" height="440"/>
+            <guid isPermaLink="false">slides/butclock.jpg</guid>
+        </item>
+        <item>
+            <title>fairy2</title>
+            <link>slides/fairy2.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fairy2.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/fairy2.jpg" width="360" height="288"/>
+            <guid isPermaLink="false">slides/fairy2.jpg</guid>
+        </item>
+        <item>
+            <title>fairy4</title>
+            <link>slides/fairy4.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fairy4.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fairy4.jpg" width="312" height="389"/>
+            <guid isPermaLink="false">slides/fairy4.jpg</guid>
+        </item>
+        <item>
+            <title>fairy6</title>
+            <link>slides/fairy6.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fairy6.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fairy6.jpg" width="289" height="361"/>
+            <guid isPermaLink="false">slides/fairy6.jpg</guid>
+        </item>
+        <item>
+            <title>fineart6</title>
+            <link>slides/fineart6.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fineart6.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart6.jpg" width="298" height="373"/>
+            <guid isPermaLink="false">slides/fineart6.jpg</guid>
+        </item>
+        <item>
+            <title>PORTRAITLISZA</title>
+            <link>slides/PORTRAITLISZA.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PORTRAITLISZA.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/PORTRAITLISZA.jpg" width="865" height="1080"/>
+            <guid isPermaLink="false">slides/PORTRAITLISZA.jpg</guid>
+        </item>
+        <item>
+            <title>fairy1</title>
+            <link>slides/fairy1.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fairy1.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fairy1.jpg" width="282" height="352"/>
+            <guid isPermaLink="false">slides/fairy1.jpg</guid>
+        </item>
+        <item>
+            <title>fineart3</title>
+            <link>slides/fineart3.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fineart3.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart3.jpg" width="272" height="340"/>
+            <guid isPermaLink="false">slides/fineart3.jpg</guid>
+        </item>
+        <item>
+            <title>fineart5</title>
+            <link>slides/fineart5.jpg</link>
+            <pubDate>Sat, 14 Jun 2014 21:04:28 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fineart5.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/fineart5.jpg" width="307" height="384"/>
+            <guid isPermaLink="false">slides/fineart5.jpg</guid>
+        </item>
+    </channel>
+</rss>

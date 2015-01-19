@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Timeless</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description>Timeless</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Paris Morning</title>
+            <link>slides/Paris Morning.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Paris Morning.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Paris Morning.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/22/09 11:35 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Paris Morning.jpg</guid>
+        </item>
+        <item>
+            <title>French Cafe</title>
+            <link>slides/French Cafe.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/French Cafe.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/French Cafe.jpg" width="1350" height="1080"/>
+            <jalbum:exif originalDate="7/9/09 11:42 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/French Cafe.jpg</guid>
+        </item>
+        <item>
+            <title>French Riviera</title>
+            <link>slides/French Riviera.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/French Riviera.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="slides/French Riviera.jpg" width="1512" height="1080"/>
+            <jalbum:exif originalDate="7/10/11 5:58 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/French Riviera.jpg</guid>
+        </item>
+        <item>
+            <title>Vente de Vin</title>
+            <link>slides/Vente de Vin.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Vente de Vin.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/Vente de Vin.jpg" width="1349" height="1080"/>
+            <jalbum:exif originalDate="7/2/11 4:48 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Vente de Vin.jpg</guid>
+        </item>
+        <item>
+            <title>Luxembourg Mist</title>
+            <link>slides/Luxembourg Mist.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Luxembourg Mist.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Luxembourg Mist.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="12/24/03 8:26 AM" cameraMake="Panasonic" cameraModel="DMC-LC33"/>
+            <guid isPermaLink="false">slides/Luxembourg Mist.jpg</guid>
+        </item>
+        <item>
+            <title>Luxembourg Morning</title>
+            <link>slides/Luxembourg Morning.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Luxembourg Morning.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Luxembourg Morning.jpg" width="864" height="1080"/>
+            <jalbum:exif originalDate="12/24/03 8:24 AM" cameraMake="Panasonic" cameraModel="DMC-LC33"/>
+            <guid isPermaLink="false">slides/Luxembourg Morning.jpg</guid>
+        </item>
+        <item>
+            <title>Las Vegas Lions</title>
+            <link>slides/Las Vegas Lions.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Las Vegas Lions.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Las Vegas Lions.jpg" width="771" height="1080"/>
+            <jalbum:exif originalDate="1/13/13 3:53 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/Las Vegas Lions.jpg</guid>
+        </item>
+        <item>
+            <title>Bodie</title>
+            <link>slides/Bodie.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bodie.jpg" width="124" height="98"/>
+            <media:content type="image/jpeg" url="slides/Bodie.jpg" width="1372" height="1080"/>
+            <jalbum:exif originalDate="8/23/09 10:00 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Bodie.jpg</guid>
+        </item>
+        <item>
+            <title>Waiting</title>
+            <link>slides/Waiting.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Waiting.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="slides/Waiting.jpg" width="1350" height="1080"/>
+            <jalbum:exif originalDate="8/23/09 10:36 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Waiting.jpg</guid>
+        </item>
+        <item>
+            <title>Last Call</title>
+            <link>slides/Last Call.jpg</link>
+            <pubDate>Mon, 16 Jun 2014 22:38:04 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Last Call.jpg" width="99" height="124"/>
+            <media:content type="image/jpeg" url="slides/Last Call.jpg" width="864" height="1080"/>
+            <jalbum:exif originalDate="8/23/09 10:47 AM" cameraMake="Panasonic" cameraModel="DMC-TZ5"/>
+            <guid isPermaLink="false">slides/Last Call.jpg</guid>
+        </item>
+    </channel>
+</rss>
