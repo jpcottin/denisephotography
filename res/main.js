@@ -22,8 +22,10 @@
 		var elementMouseIsOver;
 		var opacity = 0.3;
 		var slideShowTimeoutID = 0;
+		var allowDownload;
 		
 		function calculateDifference(imageNo) {
+
 
 			var fullWidth = 0;
 						
@@ -192,6 +194,7 @@
 								var oldImage = $("#pictures :first-child");
 			
 								var widthDiff = oldImage.outerWidth();
+
 										
 								var img = new Image();
 								img.id = "image-" + (counter + 2);
@@ -199,8 +202,11 @@
 								img.alt = thumbs.eq(counter + 1).attr('alt');
 								
 								$(img).load( function() {	
+
 									
-									$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									if (!allowDownload) {
+										$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									};		
 									$(this).on('dragstart', function(event) { event.preventDefault(); return false; });
 	
 									oldImage.remove();	
@@ -236,7 +242,8 @@
 								loadingFinished = false;
 		
 								var oldImage = $("#pictures :last-child");
-															
+														
+
 								var img = new Image();
 								img.id = "image-" + (counter - 2);
 								img.src = thumbs.eq(counter - 3).attr('data-href');
@@ -244,7 +251,9 @@
 																
 								$(img).load(function() {			
 									
-									$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									if (!allowDownload) {
+										$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									};
 									$(this).on('dragstart', function(event) { event.preventDefault(); return false; });		
 									
 									oldImage.remove();
@@ -312,6 +321,7 @@
 									increasedCounter -= amountImages;
 								}
 										
+
 								var img = new Image();
 								img.id = "image-" + (increasedCounter);
 								img.src = thumbs.eq(increasedCounter - 1).attr('data-href');
@@ -319,7 +329,9 @@
 								
 								$(img).load( function() {	
 									
-									$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									if (!allowDownload) {
+										$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									};
 									$(this).on('dragstart', function(event) { event.preventDefault(); return false; });
 	
 									oldImage.remove();	
@@ -361,7 +373,8 @@
 								if (decreasedCounter <= 0) {
 									decreasedCounter += amountImages;
 								}
-															
+									
+
 								var img = new Image();
 								img.id = "image-" + (decreasedCounter);
 								img.src = thumbs.eq(decreasedCounter - 1).attr('data-href');
@@ -369,7 +382,9 @@
 																
 								$(img).load(function() {			
 									
-									$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									if (!allowDownload) {
+										$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+									};
 									$(this).on('dragstart', function(event) { event.preventDefault(); return false; });		
 									
 									oldImage.remove();
@@ -509,6 +524,7 @@
 
 		});
 
+
 		function getImages(amount, name, initialOffset){
 
 			if (thumbs.length > 0) {								
@@ -632,7 +648,10 @@
 					
 			$("#pictures").append($(img).load(function(){
 	
-				$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+				if (!allowDownload) {
+					$(this).on('contextmenu',function(e) { e.preventDefault(); return false; } );
+				};		
+
 				$(this).on('dragstart', function(event) { event.preventDefault(); return false; });
 									
 				var calcWidth = parseInt(windowHeight / $(this).height() * $(this).width() );
@@ -641,7 +660,7 @@
 					$(this).css("height","auto");
 					$(this).css("width",function(){return windowWidth});
 					$(this).css("margin-top",function(){return (windowHeight - $(this).height() )/2});			
-				}
+			}
 				else {
 					$(this).css("height","100%");
 					$(this).css("width","auto");
@@ -921,6 +940,7 @@
 			shares.addClass("shares");
 
 			var url = encodeURIComponent( window.location.href.split('#')[0] );
+			var pinterestURL = url.substring(0, url.lastIndexOf('%2F')+3);
 
 			if (settings.facebook) {
 				shares.append('<a href="https://www.facebook.com/sharer/sharer.php?u=' + url + '" class="facebook" target="_blank"></a>');
@@ -943,7 +963,7 @@
 			}
 
 			if (settings.pinterest) {				
-				shares.append('<a href="http://www.pinterest.com/pin/create/button/?media='+ url + encodeURIComponent(thumbs.eq(0).attr('data-href')) + '&url='+url+'&description='+document.title+'" data-pin-do="buttonPin" data-pin-config="above" target="_blank" class="pinterest"></a>');
+				shares.append('<a href="http://www.pinterest.com/pin/create/button/?media='+ pinterestURL + encodeURIComponent(thumbs.eq(0).attr('data-href')) + '&url='+url+'&description='+document.title+'" data-pin-do="buttonPin" data-pin-config="above" target="_blank" class="pinterest"></a>');
 			}
 
 			if (settings.email) {
@@ -964,6 +984,7 @@
 			animationInterval = settings.animationInterval;
 			slideshowInterval = settings.slideshowInterval;
 			opacity = settings.opacity/100;
+			allowDownload = settings.allowDownload;
 
 			addShareButtons(settings);
 			
@@ -1238,8 +1259,22 @@
   				}
   			};
 
+			//diasble right click context menu and image drag
+			//thumbnail collapse
+			$("#thumbnailCollapse").on('contextmenu',function(e) { e.preventDefault(); return false; } );
+			$("#thumbnailCollapse").on('dragstart', function(event) { event.preventDefault(); return false; });
+			//thumbnails
 			$(thumbs).on('contextmenu',function(e) { e.preventDefault(); return false; } );
 			$(thumbs).on('dragstart', function(event) { event.preventDefault(); return false; });
+			//sharing icons
+			$(".sharing").on('contextmenu',function(e) { e.preventDefault(); return false; } );
+			$(".sharing").on('dragstart', function(event) { event.preventDefault(); return false; });
+			//navigation control
+			$("#navigation").on('contextmenu',function(e) { e.preventDefault(); return false; } );
+			$("#navigation").on('dragstart', function(event) { event.preventDefault(); return false; });
+			//exif information
+			$("#exifCollapse").on('contextmenu',function(e) { e.preventDefault(); return false; } );
+			$("#exifCollapse").on('dragstart', function(event) { event.preventDefault(); return false; });
 
 			var e = document.getElementById("fullscreen");
 			var target = document.documentElement;
