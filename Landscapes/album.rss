@@ -9,20 +9,9 @@
    		<description>Landscapes</description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>San Francisco Fog</title>
-            <link>slides/San Francisco Fog.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/San Francisco Fog.jpg" width="124" height="70"/>
-            <media:content type="image/jpeg" url="slides/San Francisco Fog.jpg" width="1920" height="1080"/>
-            <jalbum:exif originalDate="10/19/13 8:00 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
-            <guid isPermaLink="false">slides/San Francisco Fog.jpg</guid>
-        </item>
-        <item>
             <title>Fog Bridge</title>
             <link>slides/Fog Bridge.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Fog Bridge.jpg" width="124" height="70"/>
@@ -33,7 +22,7 @@
         <item>
             <title>Fiji Waterfall</title>
             <link>slides/Fiji Waterfall.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Fiji Waterfall.jpg" width="124" height="70"/>
@@ -44,7 +33,7 @@
         <item>
             <title>Morocco</title>
             <link>slides/Morocco.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Morocco.jpg" width="124" height="89"/>
@@ -55,7 +44,7 @@
         <item>
             <title>IMG_1044</title>
             <link>slides/IMG_1044.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_1044.jpg" width="124" height="99"/>
@@ -66,7 +55,7 @@
         <item>
             <title>P1060401</title>
             <link>slides/P1060401.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/P1060401.jpg" width="124" height="89"/>
@@ -77,13 +66,24 @@
         <item>
             <title>Point Bonita</title>
             <link>slides/Point Bonita.jpg</link>
-            <pubDate>Mon, 16 Jun 2014 22:37:59 -0700</pubDate>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Point Bonita.jpg" width="124" height="89"/>
             <media:content type="image/jpeg" url="slides/Point Bonita.jpg" width="1512" height="1080"/>
             <jalbum:exif originalDate="3/16/14 6:38 PM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
             <guid isPermaLink="false">slides/Point Bonita.jpg</guid>
+        </item>
+        <item>
+            <title>San Francisco Fog</title>
+            <link>slides/San Francisco Fog.jpg</link>
+            <pubDate>Sun, 24 Jan 2016 12:58:56 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/San Francisco Fog.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/San Francisco Fog.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="10/19/13 8:00 AM" cameraMake="Panasonic" cameraModel="DMC-GF1"/>
+            <guid isPermaLink="false">slides/San Francisco Fog.jpg</guid>
         </item>
     </channel>
 </rss>
